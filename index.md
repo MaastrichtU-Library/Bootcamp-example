@@ -1,5 +1,7 @@
 # Company Data Example Project
 
+# 100% FAIR
+
 ---
 # Terms of use
 
@@ -41,3 +43,59 @@ We archived in DEMO Dataverse [LINK](https://demo.dataverse.nl/dataset.xhtml?per
 DOI: 
 https://doi.org/10.80227/test-FXMOTV
 
+
+----
+Machine readable metadata
+
+<script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "Dataset",
+    "@id": "https://doi.org/10.80227/test-FXMOTV",
+    "identifier": "https://doi.org/10.80227/test-FXMOTV",
+    "name": "Companies Example Bootcamp",
+    "creator":
+    [
+        {
+            "name": "Hernández Serrano, Pedro",
+            "affiliation": "(maastrichtuniversity.nl)"
+        }
+    ],
+    "author":
+    [
+        {
+            "name": "Hernández Serrano, Pedro",
+            "affiliation": "(maastrichtuniversity.nl)"
+        }
+    ],
+    "datePublished": "2022-07-27",
+    "dateModified": "2022-07-27",
+    "version": "1",
+    "description":
+    [
+        "The research was about company documents but we are only publishing the general information and not the documents themselve"
+    ],
+    "keywords":
+    [
+        "Business and Management",
+        "Company Data"
+    ],
+    "license": "https://demo.dataverse.nl/api/datasets/:persistentId/versions/1.0/customlicense?persistentId=doi:10.80227/test-FXMOTV",
+    "includedInDataCatalog":
+    {
+        "@type": "DataCatalog",
+        "name": "DataverseNL - DEMO",
+        "url": "https://demo.dataverse.nl"
+    },
+    "publisher":
+    {
+        "@type": "Organization",
+        "name": "DataverseNL - DEMO"
+    },
+    "provider":
+    {
+        "@type": "Organization",
+        "name": "DataverseNL - DEMO"
+    }
+}
+</script>
