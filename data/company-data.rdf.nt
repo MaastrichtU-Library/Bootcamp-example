@@ -1,0 +1,400 @@
+<https://w3id.org/umids/wizard/956f6c/id/1> <https://schema.org/dateCreated> "1:02 AM" .
+<https://w3id.org/umids/wizard/956f6c/id/1> <https://schema.org/color> "Aquamarine" .
+<https://w3id.org/umids/wizard/956f6c/id/1> <https://schema.org/legalName> "Grimes, Dietrich and Gutkowski" .
+<https://w3id.org/umids/wizard/956f6c/id/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<https://w3id.org/umids/wizard/956f6c/id/2> <https://schema.org/dateCreated> "12:09 AM" .
+<https://w3id.org/umids/wizard/956f6c/id/2> <https://schema.org/color> "Teal" .
+<https://w3id.org/umids/wizard/956f6c/id/2> <https://schema.org/legalName> "Stokes-Stoltenberg" .
+<https://w3id.org/umids/wizard/956f6c/id/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<https://w3id.org/umids/wizard/956f6c/id/3> <https://schema.org/dateCreated> "6:11 AM" .
+<https://w3id.org/umids/wizard/956f6c/id/3> <https://schema.org/color> "Purple" .
+<https://w3id.org/umids/wizard/956f6c/id/3> <https://schema.org/legalName> "Schmeler-Kerluke" .
+<https://w3id.org/umids/wizard/956f6c/id/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<https://w3id.org/umids/wizard/956f6c/id/4> <https://schema.org/dateCreated> "12:10 AM" .
+<https://w3id.org/umids/wizard/956f6c/id/4> <https://schema.org/color> "Puce" .
+<https://w3id.org/umids/wizard/956f6c/id/4> <https://schema.org/legalName> "Haag Group" .
+<https://w3id.org/umids/wizard/956f6c/id/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<https://w3id.org/umids/wizard/956f6c/id/5> <https://schema.org/dateCreated> "9:35 AM" .
+<https://w3id.org/umids/wizard/956f6c/id/5> <https://schema.org/color> "Fuscia" .
+<https://w3id.org/umids/wizard/956f6c/id/5> <https://schema.org/legalName> "Hegmann, Daugherty and Gorczany" .
+<https://w3id.org/umids/wizard/956f6c/id/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<https://w3id.org/umids/wizard/956f6c/id/6> <https://schema.org/dateCreated> "4:00 AM" .
+<https://w3id.org/umids/wizard/956f6c/id/6> <https://schema.org/color> "Violet" .
+<https://w3id.org/umids/wizard/956f6c/id/6> <https://schema.org/legalName> "Cummings, Rosenbaum and Ondricka" .
+<https://w3id.org/umids/wizard/956f6c/id/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<https://w3id.org/umids/wizard/956f6c/id/7> <https://schema.org/dateCreated> "12:36 PM" .
+<https://w3id.org/umids/wizard/956f6c/id/7> <https://schema.org/color> "Red" .
+<https://w3id.org/umids/wizard/956f6c/id/7> <https://schema.org/legalName> "Gleason Group" .
+<https://w3id.org/umids/wizard/956f6c/id/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<https://w3id.org/umids/wizard/956f6c/id/8> <https://schema.org/dateCreated> "3:31 PM" .
+<https://w3id.org/umids/wizard/956f6c/id/8> <https://schema.org/color> "Green" .
+<https://w3id.org/umids/wizard/956f6c/id/8> <https://schema.org/legalName> "O'Conner, Gerlach and Bartoletti" .
+<https://w3id.org/umids/wizard/956f6c/id/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<https://w3id.org/umids/wizard/956f6c/id/9> <https://schema.org/dateCreated> "2:16 AM" .
+<https://w3id.org/umids/wizard/956f6c/id/9> <https://schema.org/color> "Indigo" .
+<https://w3id.org/umids/wizard/956f6c/id/9> <https://schema.org/legalName> "Hickle and Sons" .
+<https://w3id.org/umids/wizard/956f6c/id/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<https://w3id.org/umids/wizard/956f6c/id/10> <https://schema.org/dateCreated> "3:42 AM" .
+<https://w3id.org/umids/wizard/956f6c/id/10> <https://schema.org/color> "Pink" .
+<https://w3id.org/umids/wizard/956f6c/id/10> <https://schema.org/legalName> "Runolfsson, Harris and Wolff" .
+<https://w3id.org/umids/wizard/956f6c/id/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<https://w3id.org/umids/wizard/956f6c/id/11> <https://schema.org/dateCreated> "6:27 PM" .
+<https://w3id.org/umids/wizard/956f6c/id/11> <https://schema.org/color> "Khaki" .
+<https://w3id.org/umids/wizard/956f6c/id/11> <https://schema.org/legalName> "Runolfsdottir, Schimmel and Hansen" .
+<https://w3id.org/umids/wizard/956f6c/id/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<https://w3id.org/umids/wizard/956f6c/id/12> <https://schema.org/dateCreated> "5:41 AM" .
+<https://w3id.org/umids/wizard/956f6c/id/12> <https://schema.org/color> "Khaki" .
+<https://w3id.org/umids/wizard/956f6c/id/12> <https://schema.org/legalName> "Pagac, Auer and Paucek" .
+<https://w3id.org/umids/wizard/956f6c/id/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<https://w3id.org/umids/wizard/956f6c/id/13> <https://schema.org/dateCreated> "3:12 AM" .
+<https://w3id.org/umids/wizard/956f6c/id/13> <https://schema.org/color> "Khaki" .
+<https://w3id.org/umids/wizard/956f6c/id/13> <https://schema.org/legalName> "Hagenes, Bogan and Goldner" .
+<https://w3id.org/umids/wizard/956f6c/id/13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<https://w3id.org/umids/wizard/956f6c/id/14> <https://schema.org/dateCreated> "10:14 AM" .
+<https://w3id.org/umids/wizard/956f6c/id/14> <https://schema.org/color> "Yellow" .
+<https://w3id.org/umids/wizard/956f6c/id/14> <https://schema.org/legalName> "Stracke and Sons" .
+<https://w3id.org/umids/wizard/956f6c/id/14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<https://w3id.org/umids/wizard/956f6c/id/15> <https://schema.org/dateCreated> "6:28 PM" .
+<https://w3id.org/umids/wizard/956f6c/id/15> <https://schema.org/color> "Teal" .
+<https://w3id.org/umids/wizard/956f6c/id/15> <https://schema.org/legalName> "Rutherford, Jacobi and Parisian" .
+<https://w3id.org/umids/wizard/956f6c/id/15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<https://w3id.org/umids/wizard/956f6c/id/16> <https://schema.org/dateCreated> "1:29 PM" .
+<https://w3id.org/umids/wizard/956f6c/id/16> <https://schema.org/color> "Crimson" .
+<https://w3id.org/umids/wizard/956f6c/id/16> <https://schema.org/legalName> "Smitham, Schumm and Waelchi" .
+<https://w3id.org/umids/wizard/956f6c/id/16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<https://w3id.org/umids/wizard/956f6c/id/17> <https://schema.org/dateCreated> "9:44 PM" .
+<https://w3id.org/umids/wizard/956f6c/id/17> <https://schema.org/color> "Crimson" .
+<https://w3id.org/umids/wizard/956f6c/id/17> <https://schema.org/legalName> "Murphy Group" .
+<https://w3id.org/umids/wizard/956f6c/id/17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<https://w3id.org/umids/wizard/956f6c/id/18> <https://schema.org/dateCreated> "11:01 PM" .
+<https://w3id.org/umids/wizard/956f6c/id/18> <https://schema.org/color> "Maroon" .
+<https://w3id.org/umids/wizard/956f6c/id/18> <https://schema.org/legalName> "Jacobson-Kuhlman" .
+<https://w3id.org/umids/wizard/956f6c/id/18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<https://w3id.org/umids/wizard/956f6c/id/19> <https://schema.org/dateCreated> "2:38 AM" .
+<https://w3id.org/umids/wizard/956f6c/id/19> <https://schema.org/color> "Khaki" .
+<https://w3id.org/umids/wizard/956f6c/id/19> <https://schema.org/legalName> "Kulas, Miller and Wintheiser" .
+<https://w3id.org/umids/wizard/956f6c/id/19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<https://w3id.org/umids/wizard/956f6c/id/20> <https://schema.org/dateCreated> "8:47 AM" .
+<https://w3id.org/umids/wizard/956f6c/id/20> <https://schema.org/color> "Crimson" .
+<https://w3id.org/umids/wizard/956f6c/id/20> <https://schema.org/legalName> "Franecki LLC" .
+<https://w3id.org/umids/wizard/956f6c/id/20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<https://w3id.org/umids/wizard/956f6c/id/21> <https://schema.org/dateCreated> "10:53 PM" .
+<https://w3id.org/umids/wizard/956f6c/id/21> <https://schema.org/color> "Violet" .
+<https://w3id.org/umids/wizard/956f6c/id/21> <https://schema.org/legalName> "Bogan LLC" .
+<https://w3id.org/umids/wizard/956f6c/id/21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<https://w3id.org/umids/wizard/956f6c/id/22> <https://schema.org/dateCreated> "1:45 AM" .
+<https://w3id.org/umids/wizard/956f6c/id/22> <https://schema.org/color> "Green" .
+<https://w3id.org/umids/wizard/956f6c/id/22> <https://schema.org/legalName> "Mohr Inc" .
+<https://w3id.org/umids/wizard/956f6c/id/22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<https://w3id.org/umids/wizard/956f6c/id/23> <https://schema.org/dateCreated> "12:28 PM" .
+<https://w3id.org/umids/wizard/956f6c/id/23> <https://schema.org/color> "Purple" .
+<https://w3id.org/umids/wizard/956f6c/id/23> <https://schema.org/legalName> "Turcotte-Keeling" .
+<https://w3id.org/umids/wizard/956f6c/id/23> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<https://w3id.org/umids/wizard/956f6c/id/24> <https://schema.org/dateCreated> "9:22 PM" .
+<https://w3id.org/umids/wizard/956f6c/id/24> <https://schema.org/color> "Maroon" .
+<https://w3id.org/umids/wizard/956f6c/id/24> <https://schema.org/legalName> "Lebsack Inc" .
+<https://w3id.org/umids/wizard/956f6c/id/24> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<https://w3id.org/umids/wizard/956f6c/id/25> <https://schema.org/dateCreated> "4:54 PM" .
+<https://w3id.org/umids/wizard/956f6c/id/25> <https://schema.org/color> "Purple" .
+<https://w3id.org/umids/wizard/956f6c/id/25> <https://schema.org/legalName> "Walter, Bogan and Smith" .
+<https://w3id.org/umids/wizard/956f6c/id/25> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<https://w3id.org/umids/wizard/956f6c/id/26> <https://schema.org/dateCreated> "8:48 PM" .
+<https://w3id.org/umids/wizard/956f6c/id/26> <https://schema.org/color> "Yellow" .
+<https://w3id.org/umids/wizard/956f6c/id/26> <https://schema.org/legalName> "Shanahan and Sons" .
+<https://w3id.org/umids/wizard/956f6c/id/26> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<https://w3id.org/umids/wizard/956f6c/id/27> <https://schema.org/dateCreated> "2:13 PM" .
+<https://w3id.org/umids/wizard/956f6c/id/27> <https://schema.org/color> "Mauv" .
+<https://w3id.org/umids/wizard/956f6c/id/27> <https://schema.org/legalName> "Ebert LLC" .
+<https://w3id.org/umids/wizard/956f6c/id/27> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<https://w3id.org/umids/wizard/956f6c/id/28> <https://schema.org/dateCreated> "11:43 AM" .
+<https://w3id.org/umids/wizard/956f6c/id/28> <https://schema.org/color> "Khaki" .
+<https://w3id.org/umids/wizard/956f6c/id/28> <https://schema.org/legalName> "Bahringer, Spencer and Hermiston" .
+<https://w3id.org/umids/wizard/956f6c/id/28> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<https://w3id.org/umids/wizard/956f6c/id/29> <https://schema.org/dateCreated> "9:52 AM" .
+<https://w3id.org/umids/wizard/956f6c/id/29> <https://schema.org/color> "Violet" .
+<https://w3id.org/umids/wizard/956f6c/id/29> <https://schema.org/legalName> "Braun-Tromp" .
+<https://w3id.org/umids/wizard/956f6c/id/29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<https://w3id.org/umids/wizard/956f6c/id/30> <https://schema.org/dateCreated> "9:58 AM" .
+<https://w3id.org/umids/wizard/956f6c/id/30> <https://schema.org/color> "Maroon" .
+<https://w3id.org/umids/wizard/956f6c/id/30> <https://schema.org/legalName> "Aufderhar-Schroeder" .
+<https://w3id.org/umids/wizard/956f6c/id/30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<https://w3id.org/umids/wizard/956f6c/id/31> <https://schema.org/dateCreated> "2:26 PM" .
+<https://w3id.org/umids/wizard/956f6c/id/31> <https://schema.org/color> "Maroon" .
+<https://w3id.org/umids/wizard/956f6c/id/31> <https://schema.org/legalName> "Jerde-Turcotte" .
+<https://w3id.org/umids/wizard/956f6c/id/31> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<https://w3id.org/umids/wizard/956f6c/id/32> <https://schema.org/dateCreated> "12:27 PM" .
+<https://w3id.org/umids/wizard/956f6c/id/32> <https://schema.org/color> "Teal" .
+<https://w3id.org/umids/wizard/956f6c/id/32> <https://schema.org/legalName> "Little-Kertzmann" .
+<https://w3id.org/umids/wizard/956f6c/id/32> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<https://w3id.org/umids/wizard/956f6c/id/33> <https://schema.org/dateCreated> "4:08 PM" .
+<https://w3id.org/umids/wizard/956f6c/id/33> <https://schema.org/color> "Indigo" .
+<https://w3id.org/umids/wizard/956f6c/id/33> <https://schema.org/legalName> "Boyer, Kulas and King" .
+<https://w3id.org/umids/wizard/956f6c/id/33> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<https://w3id.org/umids/wizard/956f6c/id/34> <https://schema.org/dateCreated> "8:15 PM" .
+<https://w3id.org/umids/wizard/956f6c/id/34> <https://schema.org/color> "Puce" .
+<https://w3id.org/umids/wizard/956f6c/id/34> <https://schema.org/legalName> "Cassin, McLaughlin and Mayer" .
+<https://w3id.org/umids/wizard/956f6c/id/34> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<https://w3id.org/umids/wizard/956f6c/id/35> <https://schema.org/dateCreated> "4:21 PM" .
+<https://w3id.org/umids/wizard/956f6c/id/35> <https://schema.org/color> "Indigo" .
+<https://w3id.org/umids/wizard/956f6c/id/35> <https://schema.org/legalName> "Kerluke-Schaden" .
+<https://w3id.org/umids/wizard/956f6c/id/35> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<https://w3id.org/umids/wizard/956f6c/id/36> <https://schema.org/dateCreated> "9:23 AM" .
+<https://w3id.org/umids/wizard/956f6c/id/36> <https://schema.org/color> "Khaki" .
+<https://w3id.org/umids/wizard/956f6c/id/36> <https://schema.org/legalName> "Nikolaus, Durgan and Bernier" .
+<https://w3id.org/umids/wizard/956f6c/id/36> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<https://w3id.org/umids/wizard/956f6c/id/37> <https://schema.org/dateCreated> "1:46 AM" .
+<https://w3id.org/umids/wizard/956f6c/id/37> <https://schema.org/color> "Indigo" .
+<https://w3id.org/umids/wizard/956f6c/id/37> <https://schema.org/legalName> "Hermiston and Sons" .
+<https://w3id.org/umids/wizard/956f6c/id/37> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<https://w3id.org/umids/wizard/956f6c/id/38> <https://schema.org/dateCreated> "12:11 PM" .
+<https://w3id.org/umids/wizard/956f6c/id/38> <https://schema.org/color> "Fuscia" .
+<https://w3id.org/umids/wizard/956f6c/id/38> <https://schema.org/legalName> "Crooks-Wisoky" .
+<https://w3id.org/umids/wizard/956f6c/id/38> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<https://w3id.org/umids/wizard/956f6c/id/39> <https://schema.org/dateCreated> "8:05 AM" .
+<https://w3id.org/umids/wizard/956f6c/id/39> <https://schema.org/color> "Orange" .
+<https://w3id.org/umids/wizard/956f6c/id/39> <https://schema.org/legalName> "Hickle-Ledner" .
+<https://w3id.org/umids/wizard/956f6c/id/39> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<https://w3id.org/umids/wizard/956f6c/id/40> <https://schema.org/dateCreated> "8:56 AM" .
+<https://w3id.org/umids/wizard/956f6c/id/40> <https://schema.org/color> "Red" .
+<https://w3id.org/umids/wizard/956f6c/id/40> <https://schema.org/legalName> "Stiedemann, Weber and Mueller" .
+<https://w3id.org/umids/wizard/956f6c/id/40> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<https://w3id.org/umids/wizard/956f6c/id/41> <https://schema.org/dateCreated> "4:23 PM" .
+<https://w3id.org/umids/wizard/956f6c/id/41> <https://schema.org/color> "Pink" .
+<https://w3id.org/umids/wizard/956f6c/id/41> <https://schema.org/legalName> "Brakus-Fay" .
+<https://w3id.org/umids/wizard/956f6c/id/41> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<https://w3id.org/umids/wizard/956f6c/id/42> <https://schema.org/dateCreated> "11:15 AM" .
+<https://w3id.org/umids/wizard/956f6c/id/42> <https://schema.org/color> "Teal" .
+<https://w3id.org/umids/wizard/956f6c/id/42> <https://schema.org/legalName> "Lesch, O'Hara and McDermott" .
+<https://w3id.org/umids/wizard/956f6c/id/42> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<https://w3id.org/umids/wizard/956f6c/id/43> <https://schema.org/dateCreated> "2:39 PM" .
+<https://w3id.org/umids/wizard/956f6c/id/43> <https://schema.org/color> "Aquamarine" .
+<https://w3id.org/umids/wizard/956f6c/id/43> <https://schema.org/legalName> "Heller-Koepp" .
+<https://w3id.org/umids/wizard/956f6c/id/43> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<https://w3id.org/umids/wizard/956f6c/id/44> <https://schema.org/dateCreated> "5:45 PM" .
+<https://w3id.org/umids/wizard/956f6c/id/44> <https://schema.org/color> "Puce" .
+<https://w3id.org/umids/wizard/956f6c/id/44> <https://schema.org/legalName> "Howell-Thiel" .
+<https://w3id.org/umids/wizard/956f6c/id/44> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<https://w3id.org/umids/wizard/956f6c/id/45> <https://schema.org/dateCreated> "9:50 PM" .
+<https://w3id.org/umids/wizard/956f6c/id/45> <https://schema.org/color> "Goldenrod" .
+<https://w3id.org/umids/wizard/956f6c/id/45> <https://schema.org/legalName> "Wunsch Inc" .
+<https://w3id.org/umids/wizard/956f6c/id/45> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<https://w3id.org/umids/wizard/956f6c/id/46> <https://schema.org/dateCreated> "4:48 AM" .
+<https://w3id.org/umids/wizard/956f6c/id/46> <https://schema.org/color> "Green" .
+<https://w3id.org/umids/wizard/956f6c/id/46> <https://schema.org/legalName> "Kemmer, Schiller and Haag" .
+<https://w3id.org/umids/wizard/956f6c/id/46> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<https://w3id.org/umids/wizard/956f6c/id/47> <https://schema.org/dateCreated> "9:04 AM" .
+<https://w3id.org/umids/wizard/956f6c/id/47> <https://schema.org/color> "Purple" .
+<https://w3id.org/umids/wizard/956f6c/id/47> <https://schema.org/legalName> "Hintz-Hammes" .
+<https://w3id.org/umids/wizard/956f6c/id/47> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<https://w3id.org/umids/wizard/956f6c/id/48> <https://schema.org/dateCreated> "6:18 AM" .
+<https://w3id.org/umids/wizard/956f6c/id/48> <https://schema.org/color> "Crimson" .
+<https://w3id.org/umids/wizard/956f6c/id/48> <https://schema.org/legalName> "West and Sons" .
+<https://w3id.org/umids/wizard/956f6c/id/48> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<https://w3id.org/umids/wizard/956f6c/id/49> <https://schema.org/dateCreated> "11:01 AM" .
+<https://w3id.org/umids/wizard/956f6c/id/49> <https://schema.org/color> "Green" .
+<https://w3id.org/umids/wizard/956f6c/id/49> <https://schema.org/legalName> "Bednar, Feest and Thiel" .
+<https://w3id.org/umids/wizard/956f6c/id/49> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<https://w3id.org/umids/wizard/956f6c/id/50> <https://schema.org/dateCreated> "3:16 AM" .
+<https://w3id.org/umids/wizard/956f6c/id/50> <https://schema.org/color> "Red" .
+<https://w3id.org/umids/wizard/956f6c/id/50> <https://schema.org/legalName> "Casper, Metz and Cummings" .
+<https://w3id.org/umids/wizard/956f6c/id/50> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<https://w3id.org/umids/wizard/956f6c/id/51> <https://schema.org/dateCreated> "11:38 PM" .
+<https://w3id.org/umids/wizard/956f6c/id/51> <https://schema.org/color> "Khaki" .
+<https://w3id.org/umids/wizard/956f6c/id/51> <https://schema.org/legalName> "Stehr-Bode" .
+<https://w3id.org/umids/wizard/956f6c/id/51> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<https://w3id.org/umids/wizard/956f6c/id/52> <https://schema.org/dateCreated> "2:36 AM" .
+<https://w3id.org/umids/wizard/956f6c/id/52> <https://schema.org/color> "Green" .
+<https://w3id.org/umids/wizard/956f6c/id/52> <https://schema.org/legalName> "Rosenbaum, Goodwin and Jerde" .
+<https://w3id.org/umids/wizard/956f6c/id/52> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<https://w3id.org/umids/wizard/956f6c/id/53> <https://schema.org/dateCreated> "12:28 AM" .
+<https://w3id.org/umids/wizard/956f6c/id/53> <https://schema.org/color> "Red" .
+<https://w3id.org/umids/wizard/956f6c/id/53> <https://schema.org/legalName> "Daugherty-Hayes" .
+<https://w3id.org/umids/wizard/956f6c/id/53> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<https://w3id.org/umids/wizard/956f6c/id/54> <https://schema.org/dateCreated> "3:30 PM" .
+<https://w3id.org/umids/wizard/956f6c/id/54> <https://schema.org/color> "Orange" .
+<https://w3id.org/umids/wizard/956f6c/id/54> <https://schema.org/legalName> "Reynolds, Dibbert and Gulgowski" .
+<https://w3id.org/umids/wizard/956f6c/id/54> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<https://w3id.org/umids/wizard/956f6c/id/55> <https://schema.org/dateCreated> "8:38 PM" .
+<https://w3id.org/umids/wizard/956f6c/id/55> <https://schema.org/color> "Indigo" .
+<https://w3id.org/umids/wizard/956f6c/id/55> <https://schema.org/legalName> "Ward-Kutch" .
+<https://w3id.org/umids/wizard/956f6c/id/55> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<https://w3id.org/umids/wizard/956f6c/id/56> <https://schema.org/dateCreated> "12:42 PM" .
+<https://w3id.org/umids/wizard/956f6c/id/56> <https://schema.org/color> "Crimson" .
+<https://w3id.org/umids/wizard/956f6c/id/56> <https://schema.org/legalName> "Kuhn, Hauck and Hoeger" .
+<https://w3id.org/umids/wizard/956f6c/id/56> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<https://w3id.org/umids/wizard/956f6c/id/57> <https://schema.org/dateCreated> "7:56 AM" .
+<https://w3id.org/umids/wizard/956f6c/id/57> <https://schema.org/color> "Fuscia" .
+<https://w3id.org/umids/wizard/956f6c/id/57> <https://schema.org/legalName> "Gottlieb-Jacobi" .
+<https://w3id.org/umids/wizard/956f6c/id/57> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<https://w3id.org/umids/wizard/956f6c/id/58> <https://schema.org/dateCreated> "12:43 AM" .
+<https://w3id.org/umids/wizard/956f6c/id/58> <https://schema.org/color> "Maroon" .
+<https://w3id.org/umids/wizard/956f6c/id/58> <https://schema.org/legalName> "Schumm Inc" .
+<https://w3id.org/umids/wizard/956f6c/id/58> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<https://w3id.org/umids/wizard/956f6c/id/59> <https://schema.org/dateCreated> "1:39 AM" .
+<https://w3id.org/umids/wizard/956f6c/id/59> <https://schema.org/color> "Crimson" .
+<https://w3id.org/umids/wizard/956f6c/id/59> <https://schema.org/legalName> "Stiedemann-Wehner" .
+<https://w3id.org/umids/wizard/956f6c/id/59> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<https://w3id.org/umids/wizard/956f6c/id/60> <https://schema.org/dateCreated> "1:59 AM" .
+<https://w3id.org/umids/wizard/956f6c/id/60> <https://schema.org/color> "Khaki" .
+<https://w3id.org/umids/wizard/956f6c/id/60> <https://schema.org/legalName> "Heathcote-Cruickshank" .
+<https://w3id.org/umids/wizard/956f6c/id/60> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<https://w3id.org/umids/wizard/956f6c/id/61> <https://schema.org/dateCreated> "8:16 AM" .
+<https://w3id.org/umids/wizard/956f6c/id/61> <https://schema.org/color> "Violet" .
+<https://w3id.org/umids/wizard/956f6c/id/61> <https://schema.org/legalName> "Wiza-Hills" .
+<https://w3id.org/umids/wizard/956f6c/id/61> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<https://w3id.org/umids/wizard/956f6c/id/62> <https://schema.org/dateCreated> "12:12 AM" .
+<https://w3id.org/umids/wizard/956f6c/id/62> <https://schema.org/color> "Indigo" .
+<https://w3id.org/umids/wizard/956f6c/id/62> <https://schema.org/legalName> "Waelchi-Abbott" .
+<https://w3id.org/umids/wizard/956f6c/id/62> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<https://w3id.org/umids/wizard/956f6c/id/63> <https://schema.org/dateCreated> "9:15 AM" .
+<https://w3id.org/umids/wizard/956f6c/id/63> <https://schema.org/color> "Aquamarine" .
+<https://w3id.org/umids/wizard/956f6c/id/63> <https://schema.org/legalName> "Durgan, Gutkowski and Barrows" .
+<https://w3id.org/umids/wizard/956f6c/id/63> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<https://w3id.org/umids/wizard/956f6c/id/64> <https://schema.org/dateCreated> "12:11 PM" .
+<https://w3id.org/umids/wizard/956f6c/id/64> <https://schema.org/color> "Goldenrod" .
+<https://w3id.org/umids/wizard/956f6c/id/64> <https://schema.org/legalName> "Boyle-Carroll" .
+<https://w3id.org/umids/wizard/956f6c/id/64> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<https://w3id.org/umids/wizard/956f6c/id/65> <https://schema.org/dateCreated> "1:16 PM" .
+<https://w3id.org/umids/wizard/956f6c/id/65> <https://schema.org/color> "Aquamarine" .
+<https://w3id.org/umids/wizard/956f6c/id/65> <https://schema.org/legalName> "Larson, Effertz and Mraz" .
+<https://w3id.org/umids/wizard/956f6c/id/65> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<https://w3id.org/umids/wizard/956f6c/id/66> <https://schema.org/dateCreated> "3:35 PM" .
+<https://w3id.org/umids/wizard/956f6c/id/66> <https://schema.org/color> "Aquamarine" .
+<https://w3id.org/umids/wizard/956f6c/id/66> <https://schema.org/legalName> "Thompson, Graham and Kutch" .
+<https://w3id.org/umids/wizard/956f6c/id/66> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<https://w3id.org/umids/wizard/956f6c/id/67> <https://schema.org/dateCreated> "8:49 PM" .
+<https://w3id.org/umids/wizard/956f6c/id/67> <https://schema.org/color> "Fuscia" .
+<https://w3id.org/umids/wizard/956f6c/id/67> <https://schema.org/legalName> "Christiansen-Wehner" .
+<https://w3id.org/umids/wizard/956f6c/id/67> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<https://w3id.org/umids/wizard/956f6c/id/68> <https://schema.org/dateCreated> "8:00 PM" .
+<https://w3id.org/umids/wizard/956f6c/id/68> <https://schema.org/color> "Puce" .
+<https://w3id.org/umids/wizard/956f6c/id/68> <https://schema.org/legalName> "Kris Group" .
+<https://w3id.org/umids/wizard/956f6c/id/68> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<https://w3id.org/umids/wizard/956f6c/id/69> <https://schema.org/dateCreated> "9:40 PM" .
+<https://w3id.org/umids/wizard/956f6c/id/69> <https://schema.org/color> "Maroon" .
+<https://w3id.org/umids/wizard/956f6c/id/69> <https://schema.org/legalName> "Wunsch Inc" .
+<https://w3id.org/umids/wizard/956f6c/id/69> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<https://w3id.org/umids/wizard/956f6c/id/70> <https://schema.org/dateCreated> "5:15 AM" .
+<https://w3id.org/umids/wizard/956f6c/id/70> <https://schema.org/color> "Indigo" .
+<https://w3id.org/umids/wizard/956f6c/id/70> <https://schema.org/legalName> "Satterfield, Powlowski and Swift" .
+<https://w3id.org/umids/wizard/956f6c/id/70> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<https://w3id.org/umids/wizard/956f6c/id/71> <https://schema.org/dateCreated> "9:30 PM" .
+<https://w3id.org/umids/wizard/956f6c/id/71> <https://schema.org/color> "Teal" .
+<https://w3id.org/umids/wizard/956f6c/id/71> <https://schema.org/legalName> "Hettinger LLC" .
+<https://w3id.org/umids/wizard/956f6c/id/71> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<https://w3id.org/umids/wizard/956f6c/id/72> <https://schema.org/dateCreated> "8:02 AM" .
+<https://w3id.org/umids/wizard/956f6c/id/72> <https://schema.org/color> "Puce" .
+<https://w3id.org/umids/wizard/956f6c/id/72> <https://schema.org/legalName> "Larkin LLC" .
+<https://w3id.org/umids/wizard/956f6c/id/72> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<https://w3id.org/umids/wizard/956f6c/id/73> <https://schema.org/dateCreated> "8:14 PM" .
+<https://w3id.org/umids/wizard/956f6c/id/73> <https://schema.org/color> "Khaki" .
+<https://w3id.org/umids/wizard/956f6c/id/73> <https://schema.org/legalName> "Friesen, Rosenbaum and Lockman" .
+<https://w3id.org/umids/wizard/956f6c/id/73> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<https://w3id.org/umids/wizard/956f6c/id/74> <https://schema.org/dateCreated> "10:37 AM" .
+<https://w3id.org/umids/wizard/956f6c/id/74> <https://schema.org/color> "Pink" .
+<https://w3id.org/umids/wizard/956f6c/id/74> <https://schema.org/legalName> "Corwin and Sons" .
+<https://w3id.org/umids/wizard/956f6c/id/74> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<https://w3id.org/umids/wizard/956f6c/id/75> <https://schema.org/dateCreated> "5:01 AM" .
+<https://w3id.org/umids/wizard/956f6c/id/75> <https://schema.org/color> "Maroon" .
+<https://w3id.org/umids/wizard/956f6c/id/75> <https://schema.org/legalName> "Krajcik, Kovacek and Beatty" .
+<https://w3id.org/umids/wizard/956f6c/id/75> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<https://w3id.org/umids/wizard/956f6c/id/76> <https://schema.org/dateCreated> "11:46 PM" .
+<https://w3id.org/umids/wizard/956f6c/id/76> <https://schema.org/color> "Blue" .
+<https://w3id.org/umids/wizard/956f6c/id/76> <https://schema.org/legalName> "Johns, Gottlieb and Halvorson" .
+<https://w3id.org/umids/wizard/956f6c/id/76> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<https://w3id.org/umids/wizard/956f6c/id/77> <https://schema.org/dateCreated> "10:07 AM" .
+<https://w3id.org/umids/wizard/956f6c/id/77> <https://schema.org/color> "Purple" .
+<https://w3id.org/umids/wizard/956f6c/id/77> <https://schema.org/legalName> "Graham and Sons" .
+<https://w3id.org/umids/wizard/956f6c/id/77> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<https://w3id.org/umids/wizard/956f6c/id/78> <https://schema.org/dateCreated> "12:35 AM" .
+<https://w3id.org/umids/wizard/956f6c/id/78> <https://schema.org/color> "Red" .
+<https://w3id.org/umids/wizard/956f6c/id/78> <https://schema.org/legalName> "Hills, Crona and Wintheiser" .
+<https://w3id.org/umids/wizard/956f6c/id/78> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<https://w3id.org/umids/wizard/956f6c/id/79> <https://schema.org/dateCreated> "4:16 PM" .
+<https://w3id.org/umids/wizard/956f6c/id/79> <https://schema.org/color> "Purple" .
+<https://w3id.org/umids/wizard/956f6c/id/79> <https://schema.org/legalName> "Bogisich, McDermott and VonRueden" .
+<https://w3id.org/umids/wizard/956f6c/id/79> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<https://w3id.org/umids/wizard/956f6c/id/80> <https://schema.org/dateCreated> "2:01 PM" .
+<https://w3id.org/umids/wizard/956f6c/id/80> <https://schema.org/color> "Crimson" .
+<https://w3id.org/umids/wizard/956f6c/id/80> <https://schema.org/legalName> "Larson, Oberbrunner and Spencer" .
+<https://w3id.org/umids/wizard/956f6c/id/80> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<https://w3id.org/umids/wizard/956f6c/id/81> <https://schema.org/dateCreated> "6:38 AM" .
+<https://w3id.org/umids/wizard/956f6c/id/81> <https://schema.org/color> "Aquamarine" .
+<https://w3id.org/umids/wizard/956f6c/id/81> <https://schema.org/legalName> "Stracke LLC" .
+<https://w3id.org/umids/wizard/956f6c/id/81> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<https://w3id.org/umids/wizard/956f6c/id/82> <https://schema.org/dateCreated> "11:14 AM" .
+<https://w3id.org/umids/wizard/956f6c/id/82> <https://schema.org/color> "Blue" .
+<https://w3id.org/umids/wizard/956f6c/id/82> <https://schema.org/legalName> "Schultz, Conroy and Okuneva" .
+<https://w3id.org/umids/wizard/956f6c/id/82> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<https://w3id.org/umids/wizard/956f6c/id/83> <https://schema.org/dateCreated> "6:42 PM" .
+<https://w3id.org/umids/wizard/956f6c/id/83> <https://schema.org/color> "Yellow" .
+<https://w3id.org/umids/wizard/956f6c/id/83> <https://schema.org/legalName> "Hackett Inc" .
+<https://w3id.org/umids/wizard/956f6c/id/83> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<https://w3id.org/umids/wizard/956f6c/id/84> <https://schema.org/dateCreated> "2:59 AM" .
+<https://w3id.org/umids/wizard/956f6c/id/84> <https://schema.org/color> "Green" .
+<https://w3id.org/umids/wizard/956f6c/id/84> <https://schema.org/legalName> "Schneider, Labadie and Monahan" .
+<https://w3id.org/umids/wizard/956f6c/id/84> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<https://w3id.org/umids/wizard/956f6c/id/85> <https://schema.org/dateCreated> "5:36 AM" .
+<https://w3id.org/umids/wizard/956f6c/id/85> <https://schema.org/color> "Yellow" .
+<https://w3id.org/umids/wizard/956f6c/id/85> <https://schema.org/legalName> "Pacocha-Greenholt" .
+<https://w3id.org/umids/wizard/956f6c/id/85> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<https://w3id.org/umids/wizard/956f6c/id/86> <https://schema.org/dateCreated> "8:41 PM" .
+<https://w3id.org/umids/wizard/956f6c/id/86> <https://schema.org/color> "Maroon" .
+<https://w3id.org/umids/wizard/956f6c/id/86> <https://schema.org/legalName> "Marvin, King and Mertz" .
+<https://w3id.org/umids/wizard/956f6c/id/86> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<https://w3id.org/umids/wizard/956f6c/id/87> <https://schema.org/dateCreated> "5:54 AM" .
+<https://w3id.org/umids/wizard/956f6c/id/87> <https://schema.org/color> "Yellow" .
+<https://w3id.org/umids/wizard/956f6c/id/87> <https://schema.org/legalName> "Murray Group" .
+<https://w3id.org/umids/wizard/956f6c/id/87> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<https://w3id.org/umids/wizard/956f6c/id/88> <https://schema.org/dateCreated> "1:53 AM" .
+<https://w3id.org/umids/wizard/956f6c/id/88> <https://schema.org/color> "Yellow" .
+<https://w3id.org/umids/wizard/956f6c/id/88> <https://schema.org/legalName> "Adams, Jacobson and Moore" .
+<https://w3id.org/umids/wizard/956f6c/id/88> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<https://w3id.org/umids/wizard/956f6c/id/89> <https://schema.org/dateCreated> "5:00 PM" .
+<https://w3id.org/umids/wizard/956f6c/id/89> <https://schema.org/color> "Khaki" .
+<https://w3id.org/umids/wizard/956f6c/id/89> <https://schema.org/legalName> "Bogan, Dickens and McKenzie" .
+<https://w3id.org/umids/wizard/956f6c/id/89> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<https://w3id.org/umids/wizard/956f6c/id/90> <https://schema.org/dateCreated> "7:32 AM" .
+<https://w3id.org/umids/wizard/956f6c/id/90> <https://schema.org/color> "Indigo" .
+<https://w3id.org/umids/wizard/956f6c/id/90> <https://schema.org/legalName> "Becker, Mraz and Daniel" .
+<https://w3id.org/umids/wizard/956f6c/id/90> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<https://w3id.org/umids/wizard/956f6c/id/91> <https://schema.org/dateCreated> "12:49 PM" .
+<https://w3id.org/umids/wizard/956f6c/id/91> <https://schema.org/color> "Blue" .
+<https://w3id.org/umids/wizard/956f6c/id/91> <https://schema.org/legalName> "Johnson Inc" .
+<https://w3id.org/umids/wizard/956f6c/id/91> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<https://w3id.org/umids/wizard/956f6c/id/92> <https://schema.org/dateCreated> "10:34 AM" .
+<https://w3id.org/umids/wizard/956f6c/id/92> <https://schema.org/color> "Fuscia" .
+<https://w3id.org/umids/wizard/956f6c/id/92> <https://schema.org/legalName> "Gulgowski Inc" .
+<https://w3id.org/umids/wizard/956f6c/id/92> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<https://w3id.org/umids/wizard/956f6c/id/93> <https://schema.org/dateCreated> "8:25 AM" .
+<https://w3id.org/umids/wizard/956f6c/id/93> <https://schema.org/color> "Turquoise" .
+<https://w3id.org/umids/wizard/956f6c/id/93> <https://schema.org/legalName> "Prosacco-Welch" .
+<https://w3id.org/umids/wizard/956f6c/id/93> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<https://w3id.org/umids/wizard/956f6c/id/94> <https://schema.org/dateCreated> "11:24 PM" .
+<https://w3id.org/umids/wizard/956f6c/id/94> <https://schema.org/color> "Teal" .
+<https://w3id.org/umids/wizard/956f6c/id/94> <https://schema.org/legalName> "Jakubowski and Sons" .
+<https://w3id.org/umids/wizard/956f6c/id/94> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<https://w3id.org/umids/wizard/956f6c/id/95> <https://schema.org/dateCreated> "3:37 PM" .
+<https://w3id.org/umids/wizard/956f6c/id/95> <https://schema.org/color> "Mauv" .
+<https://w3id.org/umids/wizard/956f6c/id/95> <https://schema.org/legalName> "Fahey Inc" .
+<https://w3id.org/umids/wizard/956f6c/id/95> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<https://w3id.org/umids/wizard/956f6c/id/96> <https://schema.org/dateCreated> "4:35 PM" .
+<https://w3id.org/umids/wizard/956f6c/id/96> <https://schema.org/color> "Red" .
+<https://w3id.org/umids/wizard/956f6c/id/96> <https://schema.org/legalName> "Murray Group" .
+<https://w3id.org/umids/wizard/956f6c/id/96> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<https://w3id.org/umids/wizard/956f6c/id/97> <https://schema.org/dateCreated> "8:18 PM" .
+<https://w3id.org/umids/wizard/956f6c/id/97> <https://schema.org/color> "Maroon" .
+<https://w3id.org/umids/wizard/956f6c/id/97> <https://schema.org/legalName> "Hartmann-Schinner" .
+<https://w3id.org/umids/wizard/956f6c/id/97> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<https://w3id.org/umids/wizard/956f6c/id/98> <https://schema.org/dateCreated> "5:30 PM" .
+<https://w3id.org/umids/wizard/956f6c/id/98> <https://schema.org/color> "Fuscia" .
+<https://w3id.org/umids/wizard/956f6c/id/98> <https://schema.org/legalName> "Swaniawski Inc" .
+<https://w3id.org/umids/wizard/956f6c/id/98> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<https://w3id.org/umids/wizard/956f6c/id/99> <https://schema.org/dateCreated> "9:51 AM" .
+<https://w3id.org/umids/wizard/956f6c/id/99> <https://schema.org/color> "Aquamarine" .
+<https://w3id.org/umids/wizard/956f6c/id/99> <https://schema.org/legalName> "Schaefer, Hills and Bartoletti" .
+<https://w3id.org/umids/wizard/956f6c/id/99> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<https://w3id.org/umids/wizard/956f6c/id/100> <https://schema.org/dateCreated> "3:23 PM" .
+<https://w3id.org/umids/wizard/956f6c/id/100> <https://schema.org/color> "Turquoise" .
+<https://w3id.org/umids/wizard/956f6c/id/100> <https://schema.org/legalName> "Conn, Heller and Wiegand" .
+<https://w3id.org/umids/wizard/956f6c/id/100> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
