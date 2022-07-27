@@ -1,37 +1,43 @@
-## Welcome to GitHub Pages
+# Company Data Example Project
 
-You can use the [editor on GitHub](https://github.com/MaastrichtU-Library/Bootcamp-example/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+---
+# Terms of use
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Description:	
+This are the terms of use of company data
 
-### Markdown
+### License:
+http://opendatacommons.org/licenses/by/1.0/
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Work attribution: 
+Could you please cite my happy dataset?
 
-# Header 1
-## Header 2
-### Header 3
+### Disclaimer:	
+The research was about company documents but we are only publishing the general information and not the documents themselve
 
-- Bulleted
-- List
+---
+# Data Descriptions
 
-1. Numbered
-2. List
+id: id	
+time: https://schema.org/dateCreated
+color: https://schema.org/color	
+company: https://schema.org/legalName
 
-**Bold** and _Italic_ and `Code` text
+---
+# Data Access Protocols
 
-[Link](url) and ![Image](src)
-```
+This dataset is Open Access  
+![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fs3.amazonaws.com%2Flibapps%2Faccounts%2F33900%2Fimages%2FOAlogo.jpg&f=1&nofb=1)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+SPARQL API 
+https://api.triplydb.com/datasets/hdezserrano/companies-bootcamp/services/companies-bootcamp/sparql
 
-### Jekyll Themes
+---
+# Data Archiving
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MaastrichtU-Library/Bootcamp-example/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+We archived in DEMO Dataverse [LINK](https://demo.dataverse.nl/dataset.xhtml?persistentId=doi%3A10.80227%2Ftest-FXMOTV)
 
-### Support or Contact
+DOI: 
+https://doi.org/10.80227/test-FXMOTV
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
